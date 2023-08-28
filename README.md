@@ -1,4 +1,4 @@
-# GPS Backend V1
+# GPS Frontend V1
 
 This project stores the frontend for the BrickMMO GPS project.
 
